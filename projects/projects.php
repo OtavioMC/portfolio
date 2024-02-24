@@ -81,7 +81,7 @@
     <div class="container">
         <div class="col-xs-12">
                 <div class="text-center" style="padding-top: 10px; padding-bottom: 30px;">
-                    <a href="/index" style="color: #ffffff;"> Back to the homepage </a>
+                    <a href="/portfolio/index.html" style="color: #ffffff;"> Back to the homepage </a>
                 </div>
         </div>
     </div>
